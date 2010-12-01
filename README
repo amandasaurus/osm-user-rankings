@@ -1,0 +1,9 @@
+This script is used to parse an OSM file and see who is the most prolific mapper who adds the most.
+
+Usage:
+
+./rankings.py filename.osm
+
+Todo:
+ * Add support for .osm.bz2 files
+ * Some way to 'weigh' the edits more
